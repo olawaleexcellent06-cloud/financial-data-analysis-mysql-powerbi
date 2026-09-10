@@ -1,4 +1,5 @@
-# Financial Fraud & Loan Analytics
+# Financial & Loan Analytics
+
 
 ## Project Overview
 This project analyzes a synthetic financial database sourced from Kaggle using MySQL to examine customers, accounts, transactions, loans, branches, and account types.
@@ -129,7 +130,17 @@ The analysis can support business decisions in the following areas:
 * Review customer-level loan, account, and transaction activity to better understand customer engagement.
 * Compare account types based on transaction and loan activity to support performance evaluation.
 
-## Repository Structure
+## Dashboard Preview
+
+The Power BI dashboard provides an interactive overview of financial activity across customers, accounts, transactions, loans, and branches.
+
+The dashboard includes:
+
+* KPI cards for Total Customers, Total Accounts, Total Transactions, and Total Loan Value
+* Charts for transaction types, account types, customer types, loan status, account status, and branch performance
+* Slicers for Transaction Type and Account Status
+* A customer account balance table highlighting account balances and highest-balance customers
+
 
 ## Repository Structure
 
