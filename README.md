@@ -71,6 +71,14 @@ The analysis was completed in the following stages:
 * Analyzed loan counts and total loan amounts by account type.
 * Compared average loan amounts across account statuses.
 
+* ### 8. Dashboard Development
+* Connected the financial data to Power BI.
+* Built KPI cards for Total Customers, Total Accounts, Total Transactions, and Total Loan Value.
+* Created column and bar charts to analyze transaction types, account types, customer types, loan status, account status, and branch performance.
+* Added slicers for Transaction Type and Account Status.
+* Created a table visual showing customer account balances, including highest-balance customers.
+
+
 ## Key Business Insights
 The analysis examined the following areas:
 
@@ -123,14 +131,16 @@ The analysis can support business decisions in the following areas:
 
 ## Repository Structure
 
+## Repository Structure
+
 ```text
 financial-data-analysis-mysql-powerbi/
 │
 ├── Finance Fraud & Loan Analytics.sql
-├── README.md
-├── Power BI/
-└── Images/
+├── Finance, Loans & Fraud Analytics Dashboard.pbix
+└── README.md
 ```
+
 
 ## Skills Demonstrated
 
